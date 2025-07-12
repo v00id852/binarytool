@@ -1,0 +1,7 @@
+:root {
+  --cf-gray-light: hsl(0, 0%, 96%);
+  --cb-gray: hsl(0, 0%, 80%);
+  --ct-gray: hsl(0, 0%, 40%);
+	--ct-gray-dark: hsl(0, 0%, 30%);
+  overflow: hidden
+}
